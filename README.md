@@ -20,9 +20,11 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  Unsupervised Machine Learning            |  A brief introduction to Unsupervised Machine            | https://github.com/flokabukie/Unsupervised-Learning      |
+| 2 |  Dataframes            |  Using Pandas to organize Data            |https://github.com/flokabukie/Dataframes      |
+| 3 |  Pandas for Data Analytics and Visualization-             |  Understanding processes in data analytics and visualizations using Pandas.             | https://github.com/flokabukie/Pandas-Data-Analytics-and-Visualizations-
+
+#readme       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
